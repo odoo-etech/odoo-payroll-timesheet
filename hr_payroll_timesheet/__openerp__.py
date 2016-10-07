@@ -9,7 +9,7 @@
     'license': 'AGPL-3',
     'category': 'Human Resources',
     'data': [
-        'hr_contract_view.xml',
+        'views/hr_contract_view.xml',
     ],
     'depends': [
         'hr_payroll',
